@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+.titolo{
+    background-color: #fff;
+    
+}
+
+.logo{
+    height: 60px;
+    vertical-align: middle;
+    margin: 10px 0px 10px 20px;
+}
+
+.nome-logo{
+    font-size: 45px;
+    vertical-align: middle;
+    font-weight: bold;
+}
+/*titolo*/
